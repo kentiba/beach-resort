@@ -5,7 +5,7 @@ import "./App.css";
 import Navbar from "./components/Navbar/Navbar.component";
 const HomePage = lazy(() => import("./pages/Home.component"));
 const RoomsPage = lazy(() => import("./pages/Rooms.component"));
-const RoomPage = lazy(() => import("./pages/Room.component"));
+const SingleRoom = lazy(() => import("./pages/SingleRoom.component"));
 const NotFoundPage = lazy(() => import("./pages/Not-found.component"));
 
 function App() {
@@ -16,7 +16,7 @@ function App() {
         <Switch>
           <Route exact path="/" component={HomePage} />
           <Route exact path="/rooms" component={RoomsPage} />
-          <Route exact path="/rooms/:slug" component={RoomPage} />
+          <Route exact path="/rooms/:slug" component={SingleRoom} />
           <Route path="*" component={NotFoundPage} />
         </Switch>
       </Suspense>

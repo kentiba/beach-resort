@@ -1,5 +1,5 @@
 import React from "react";
-import Hero from "../components/Hero/Hero.component";
+import StyledHero from "../components/Hero/StyledHero.component";
 import Banner from "../components/Banner/Banner.component";
 import Services from "../components/Services/Services.component";
 import FeaturedRooms from "../components/FeaturedRooms/FeaturedRooms.component";
@@ -7,7 +7,7 @@ import { Link } from "react-router-dom";
 const Home = () => {
   return (
     <React.Fragment>
-      <Hero>
+      <StyledHero>
         <Banner
           title="Luxurious rooms"
           subtitle="deluxe rooms starting at $299"
@@ -16,7 +16,7 @@ const Home = () => {
             our rooms
           </Link>
         </Banner>
-      </Hero>
+      </StyledHero>
       <Services />
       <FeaturedRooms />
     </React.Fragment>

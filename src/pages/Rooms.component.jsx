@@ -1,17 +1,17 @@
 import React from "react";
-import Hero from "../components/Hero/Hero.component";
+import StyledHero from "../components/Hero/StyledHero.component";
 import Banner from "../components/Banner/Banner.component";
 import { Link } from "react-router-dom";
+import roomImage from "../images/room-2.jpeg";
 const Rooms = () => {
   return (
-    <Hero hero="roomsHero">
-      {" "}
+    <StyledHero image={roomImage}>
       <Banner title="Rooms">
         <Link to="/" className="btn-primary">
           return home
         </Link>
       </Banner>
-    </Hero>
+    </StyledHero>
   );
 };
 

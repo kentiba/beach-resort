@@ -9,3 +9,5 @@ export default Hero;
 Hero.defaultProps = {
   hero: "defaultHero"
 };
+
+//TODO DELETE THIS COMPONENET
