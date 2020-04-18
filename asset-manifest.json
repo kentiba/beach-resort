@@ -5,8 +5,8 @@
     "main.css": "/beach-resort/static/css/main.de381ec8.chunk.css",
     "main.js": "/beach-resort/static/js/main.e5efb344.chunk.js",
     "main.js.map": "/beach-resort/static/js/main.e5efb344.chunk.js.map",
-    "runtime-main.js": "/beach-resort/static/js/runtime-main.71608861.js",
-    "runtime-main.js.map": "/beach-resort/static/js/runtime-main.71608861.js.map",
+    "runtime-main.js": "/beach-resort/static/js/runtime-main.c3467378.js",
+    "runtime-main.js.map": "/beach-resort/static/js/runtime-main.c3467378.js.map",
     "static/js/3.9ee404b0.chunk.js": "/beach-resort/static/js/3.9ee404b0.chunk.js",
     "static/js/3.9ee404b0.chunk.js.map": "/beach-resort/static/js/3.9ee404b0.chunk.js.map",
     "static/css/4.571a5f7d.chunk.css": "/beach-resort/static/css/4.571a5f7d.chunk.css",
@@ -16,10 +16,10 @@
     "static/js/5.8d4b3c6a.chunk.js.map": "/beach-resort/static/js/5.8d4b3c6a.chunk.js.map",
     "static/js/6.f0bacd21.chunk.js": "/beach-resort/static/js/6.f0bacd21.chunk.js",
     "static/js/6.f0bacd21.chunk.js.map": "/beach-resort/static/js/6.f0bacd21.chunk.js.map",
-    "static/js/7.893e1e81.chunk.js": "/beach-resort/static/js/7.893e1e81.chunk.js",
-    "static/js/7.893e1e81.chunk.js.map": "/beach-resort/static/js/7.893e1e81.chunk.js.map",
+    "static/js/7.f328e4b6.chunk.js": "/beach-resort/static/js/7.f328e4b6.chunk.js",
+    "static/js/7.f328e4b6.chunk.js.map": "/beach-resort/static/js/7.f328e4b6.chunk.js.map",
     "index.html": "/beach-resort/index.html",
-    "precache-manifest.eb0136e52fac3c0697ee364e6a4d39c2.js": "/beach-resort/precache-manifest.eb0136e52fac3c0697ee364e6a4d39c2.js",
+    "precache-manifest.a11b66928e258e330b936d1bf432a9a9.js": "/beach-resort/precache-manifest.a11b66928e258e330b936d1bf432a9a9.js",
     "service-worker.js": "/beach-resort/service-worker.js",
     "static/css/4.571a5f7d.chunk.css.map": "/beach-resort/static/css/4.571a5f7d.chunk.css.map",
     "static/css/main.de381ec8.chunk.css.map": "/beach-resort/static/css/main.de381ec8.chunk.css.map",
@@ -30,7 +30,7 @@
     "static/media/room-2.jpeg": "/beach-resort/static/media/room-2.052c7681.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.71608861.js",
+    "static/js/runtime-main.c3467378.js",
     "static/js/3.9ee404b0.chunk.js",
     "static/css/main.de381ec8.chunk.css",
     "static/js/main.e5efb344.chunk.js"
