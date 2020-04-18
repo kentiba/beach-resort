@@ -23,7 +23,14 @@ const Room = ({ match }) => {
       <section className="single-room">
         <div className="single-room-images">
           {room.images.slice(1).map((img, index) => {
-            return <img src={img} alt={room.name} key={index} />;
+            return (
+              <img
+                src={img}
+                alt={room.name}
+                key={index}
+                style={{ width: "85%", marginRight: "2px" }}
+              />
+            );
           })}
         </div>
 
