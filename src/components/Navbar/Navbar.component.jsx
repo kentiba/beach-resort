@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import { FaAlignRight } from "react-icons/fa";
 import { Link } from "react-router-dom";
 import Logo from "../../images/logo.svg";
+import "./Navbar.styles.css";
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -12,13 +13,17 @@ const Navbar = () => {
       <div className="nav-center">
         <div className="nav-header">
           <Link to="/">
-            <img src={Logo} alt="Beach Resort" />
+            <img className="image" src={Logo} alt="Beach Resort" />
           </Link>
           <button type="button" className="nav-btn" onClick={handleToggle}>
             <FaAlignRight className="nav-icon" />
           </button>
         </div>
-        <ul className={isOpen ? "nav-links show-nav" : "nav-links"}>
+        <ul
+          className={
+            isOpen ? "nav-links show-nav link-text" : "nav-links link-text"
+          }
+        >
           <li onClick={handleToggle}>
             <Link to="/">Home</Link>
           </li>
@@ -27,6 +32,7 @@ const Navbar = () => {
           </li>
         </ul>
       </div>
+      <div className="curved-shape"></div>
     </nav>
   );
 };

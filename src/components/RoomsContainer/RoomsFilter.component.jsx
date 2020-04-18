@@ -16,9 +16,15 @@ const RoomsFilter = () => {
     breakfast,
     pets
   } = useContext(RoomContext);
+
   // find unique
   let types = UniqueValue(rooms, "type");
   let people = UniqueValue(rooms, "capacity");
+
+  //sorting
+  types.sort();
+  people.sort((a, b) => a - b);
+
   // add 'all' to it
   types = ["all", ...types];
 

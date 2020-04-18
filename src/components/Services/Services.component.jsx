@@ -1,6 +1,7 @@
 import React from "react";
 import Title from "../Title/Title.component";
 import services from "./servies.data";
+import "./Services.styles.css";
 
 const Services = () => {
   return (
