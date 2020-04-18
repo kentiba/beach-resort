@@ -1,0 +1,38 @@
+{
+  "files": {
+    "static/js/0.fe1d2c50.chunk.js": "/Beach-Resort/static/js/0.fe1d2c50.chunk.js",
+    "static/js/0.fe1d2c50.chunk.js.map": "/Beach-Resort/static/js/0.fe1d2c50.chunk.js.map",
+    "main.css": "/Beach-Resort/static/css/main.de381ec8.chunk.css",
+    "main.js": "/Beach-Resort/static/js/main.8b384801.chunk.js",
+    "main.js.map": "/Beach-Resort/static/js/main.8b384801.chunk.js.map",
+    "runtime-main.js": "/Beach-Resort/static/js/runtime-main.38edc52e.js",
+    "runtime-main.js.map": "/Beach-Resort/static/js/runtime-main.38edc52e.js.map",
+    "static/js/3.9ee404b0.chunk.js": "/Beach-Resort/static/js/3.9ee404b0.chunk.js",
+    "static/js/3.9ee404b0.chunk.js.map": "/Beach-Resort/static/js/3.9ee404b0.chunk.js.map",
+    "static/css/4.571a5f7d.chunk.css": "/Beach-Resort/static/css/4.571a5f7d.chunk.css",
+    "static/js/4.e281e26a.chunk.js": "/Beach-Resort/static/js/4.e281e26a.chunk.js",
+    "static/js/4.e281e26a.chunk.js.map": "/Beach-Resort/static/js/4.e281e26a.chunk.js.map",
+    "static/js/5.a5e927d4.chunk.js": "/Beach-Resort/static/js/5.a5e927d4.chunk.js",
+    "static/js/5.a5e927d4.chunk.js.map": "/Beach-Resort/static/js/5.a5e927d4.chunk.js.map",
+    "static/js/6.52eadfa8.chunk.js": "/Beach-Resort/static/js/6.52eadfa8.chunk.js",
+    "static/js/6.52eadfa8.chunk.js.map": "/Beach-Resort/static/js/6.52eadfa8.chunk.js.map",
+    "static/js/7.75ba3b9a.chunk.js": "/Beach-Resort/static/js/7.75ba3b9a.chunk.js",
+    "static/js/7.75ba3b9a.chunk.js.map": "/Beach-Resort/static/js/7.75ba3b9a.chunk.js.map",
+    "index.html": "/Beach-Resort/index.html",
+    "precache-manifest.136b9e2c16fc398f2dd1e7df0f3bafe2.js": "/Beach-Resort/precache-manifest.136b9e2c16fc398f2dd1e7df0f3bafe2.js",
+    "service-worker.js": "/Beach-Resort/service-worker.js",
+    "static/css/4.571a5f7d.chunk.css.map": "/Beach-Resort/static/css/4.571a5f7d.chunk.css.map",
+    "static/css/main.de381ec8.chunk.css.map": "/Beach-Resort/static/css/main.de381ec8.chunk.css.map",
+    "static/js/3.9ee404b0.chunk.js.LICENSE.txt": "/Beach-Resort/static/js/3.9ee404b0.chunk.js.LICENSE.txt",
+    "static/media/defaultBcg.jpeg": "/Beach-Resort/static/media/defaultBcg.aebaec51.jpeg",
+    "static/media/logo.svg": "/Beach-Resort/static/media/logo.c7c76c7a.svg",
+    "static/media/room-1.jpeg": "/Beach-Resort/static/media/room-1.e928a5c4.jpeg",
+    "static/media/room-2.jpeg": "/Beach-Resort/static/media/room-2.052c7681.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.38edc52e.js",
+    "static/js/3.9ee404b0.chunk.js",
+    "static/css/main.de381ec8.chunk.css",
+    "static/js/main.8b384801.chunk.js"
+  ]
+}
