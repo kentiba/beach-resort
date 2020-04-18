@@ -34,6 +34,7 @@ class RoomProvider extends Component {
       let rooms = this.formatData(res.items);
       let featuredRooms = rooms.filter(room => room.featured);
       let maxPrice = Math.max(...rooms.map(item => item.price));
+      let minPrice = Math.min(...rooms.map(item => item.price));
       let maxSize = Math.max(...rooms.map(item => item.size));
       this.setState({
         rooms,
@@ -41,6 +42,7 @@ class RoomProvider extends Component {
         sortedRooms: rooms,
         loading: false,
         price: maxPrice,
+        minPrice: minPrice,
         maxPrice,
         maxSize
       });

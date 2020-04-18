@@ -2,6 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import PropTypes from "prop-types";
 import defaultImage from "../../images/room-1.jpeg";
+
 const Room = ({ room: { name, slug, images, price } }) => {
   return (
     <article className="room">
