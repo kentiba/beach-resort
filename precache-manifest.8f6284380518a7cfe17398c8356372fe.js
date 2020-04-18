@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ff05cf624e70e670ac0c693156b9a59c",
+    "revision": "f99ce034bdad5e42ee730976480a6781",
     "url": "/beach-resort/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/beach-resort/static/css/4.571a5f7d.chunk.css"
   },
   {
-    "revision": "8c814435151691d0f943",
+    "revision": "63d09670440502b6d2ef",
     "url": "/beach-resort/static/css/main.de381ec8.chunk.css"
   },
   {
@@ -16,20 +16,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/beach-resort/static/js/0.486ee81e.chunk.js"
   },
   {
-    "revision": "b2c729f0959049653dfd",
-    "url": "/beach-resort/static/js/3.9ee404b0.chunk.js"
+    "revision": "7fb9f1bbda27a73c74ba",
+    "url": "/beach-resort/static/js/3.0f773ae8.chunk.js"
   },
   {
     "revision": "f231859d6585c4cd5f80c344783ed269",
-    "url": "/beach-resort/static/js/3.9ee404b0.chunk.js.LICENSE.txt"
+    "url": "/beach-resort/static/js/3.0f773ae8.chunk.js.LICENSE.txt"
   },
   {
     "revision": "0c79288b88f2bac5f709",
     "url": "/beach-resort/static/js/4.308a38aa.chunk.js"
   },
   {
-    "revision": "d626a81c8d2f014392b3",
-    "url": "/beach-resort/static/js/5.8d4b3c6a.chunk.js"
+    "revision": "0d0c097a01a7ce55982c",
+    "url": "/beach-resort/static/js/5.06aa7383.chunk.js"
   },
   {
     "revision": "3ad2fbad7ad175db63a3",
@@ -40,12 +40,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/beach-resort/static/js/7.f328e4b6.chunk.js"
   },
   {
-    "revision": "8c814435151691d0f943",
-    "url": "/beach-resort/static/js/main.e5efb344.chunk.js"
+    "revision": "63d09670440502b6d2ef",
+    "url": "/beach-resort/static/js/main.0bce7061.chunk.js"
   },
   {
-    "revision": "343b0e80a68517ca5c3c",
-    "url": "/beach-resort/static/js/runtime-main.c3467378.js"
+    "revision": "025bab924d84fa67d926",
+    "url": "/beach-resort/static/js/runtime-main.56fe13ab.js"
   },
   {
     "revision": "aebaec51b2f82a2993fda821ca04e228",
