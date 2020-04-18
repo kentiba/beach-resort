@@ -14,9 +14,13 @@ function App() {
       <Suspense fallback={<WithSpinner />}>
         <Navbar />
         <Switch>
-          <Route exact path="/" component={HomePage} />
-          <Route exact path="/rooms" component={RoomsPage} />
-          <Route exact path="/rooms/:slug" component={SingleRoom} />
+          <Route exact path="/beach-resort/" component={HomePage} />
+          <Route exact path="/beach-resort/rooms" component={RoomsPage} />
+          <Route
+            exact
+            path="/beach-resort/rooms/:slug"
+            component={SingleRoom}
+          />
           <Route path="*" component={NotFoundPage} />
         </Switch>
       </Suspense>

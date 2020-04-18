@@ -12,7 +12,7 @@ const Navbar = () => {
     <nav className="navbar">
       <div className="nav-center">
         <div className="nav-header">
-          <Link to="/">
+          <Link to="/beach-resort/">
             <img className="image" src={Logo} alt="Beach Resort" />
           </Link>
           <button type="button" className="nav-btn" onClick={handleToggle}>
@@ -25,10 +25,10 @@ const Navbar = () => {
           }
         >
           <li onClick={handleToggle}>
-            <Link to="/">Home</Link>
+            <Link to="/beach-resort/">Home</Link>
           </li>
           <li onClick={handleToggle}>
-            <Link to="/rooms">Rooms</Link>
+            <Link to="/beach-resort/rooms">Rooms</Link>
           </li>
         </ul>
       </div>

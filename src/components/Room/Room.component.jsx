@@ -11,7 +11,10 @@ const Room = ({ room: { name, slug, images, price } }) => {
           <h6>${price}</h6>
           <p>per night</p>
         </div>
-        <Link className="btn-primary room-link" to={`/rooms/${slug}`}>
+        <Link
+          className="btn-primary room-link"
+          to={`/beach-resort/rooms/${slug}`}
+        >
           features
         </Link>
       </div>

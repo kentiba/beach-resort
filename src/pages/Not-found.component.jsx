@@ -6,7 +6,7 @@ const NotFound = () => {
   return (
     <StyledHero>
       <Banner title="404" subtitle="page not found">
-        <Link to="/" className="btn-primary">
+        <Link to="/beach-resort/" className="btn-primary">
           Back to Home page
         </Link>
       </Banner>

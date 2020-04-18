@@ -9,7 +9,7 @@ const Rooms = () => {
     <>
       <StyledHero image={roomImage}>
         <Banner title="Rooms">
-          <Link to="/" className="btn-primary">
+          <Link to="/beach-resort/" className="btn-primary">
             return home
           </Link>
         </Banner>

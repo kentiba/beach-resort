@@ -15,7 +15,7 @@ const Room = ({ match }) => {
     <>
       <StyledHero image={room.images[0]}>
         <Banner title={`${room.name} room`}>
-          <Link to="/rooms" className="btn-primary">
+          <Link to="/beach-resort/rooms" className="btn-primary">
             Back to rooms
           </Link>
         </Banner>
@@ -59,7 +59,7 @@ const Room = ({ match }) => {
   ) : (
     <div className="error">
       <h3> No such room could be found...</h3>
-      <Link to="/rooms" className="btn-primary">
+      <Link to="/beach-resort/rooms" className="btn-primary">
         Back to rooms
       </Link>
     </div>

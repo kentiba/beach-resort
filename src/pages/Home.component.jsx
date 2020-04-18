@@ -12,7 +12,7 @@ const Home = () => {
           title="Luxurious rooms"
           subtitle="deluxe rooms starting at $299"
         >
-          <Link to="/rooms" className="btn-primary">
+          <Link to="/beach-resort/rooms" className="btn-primary">
             our rooms
           </Link>
         </Banner>
