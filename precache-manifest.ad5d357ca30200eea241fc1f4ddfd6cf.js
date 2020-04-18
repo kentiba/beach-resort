@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a8cde76f0d3d4e412a9c03d9b48de25b",
+    "revision": "35e4d71fbe24d74cc5e347d1429e89ee",
     "url": "/beach-resort/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/beach-resort/static/css/4.571a5f7d.chunk.css"
   },
   {
-    "revision": "e725b2d573bf1c34273b",
+    "revision": "af47e2e521e8ac374bc9",
     "url": "/beach-resort/static/css/main.de381ec8.chunk.css"
   },
   {
@@ -40,8 +40,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/beach-resort/static/js/7.75ba3b9a.chunk.js"
   },
   {
-    "revision": "e725b2d573bf1c34273b",
-    "url": "/beach-resort/static/js/main.e16767ce.chunk.js"
+    "revision": "af47e2e521e8ac374bc9",
+    "url": "/beach-resort/static/js/main.8c20157a.chunk.js"
   },
   {
     "revision": "9908b1a75fda3e76a397",

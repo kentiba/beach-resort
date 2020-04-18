@@ -3,8 +3,8 @@
     "static/js/0.486ee81e.chunk.js": "/beach-resort/static/js/0.486ee81e.chunk.js",
     "static/js/0.486ee81e.chunk.js.map": "/beach-resort/static/js/0.486ee81e.chunk.js.map",
     "main.css": "/beach-resort/static/css/main.de381ec8.chunk.css",
-    "main.js": "/beach-resort/static/js/main.e16767ce.chunk.js",
-    "main.js.map": "/beach-resort/static/js/main.e16767ce.chunk.js.map",
+    "main.js": "/beach-resort/static/js/main.8c20157a.chunk.js",
+    "main.js.map": "/beach-resort/static/js/main.8c20157a.chunk.js.map",
     "runtime-main.js": "/beach-resort/static/js/runtime-main.b522c82c.js",
     "runtime-main.js.map": "/beach-resort/static/js/runtime-main.b522c82c.js.map",
     "static/js/3.9ee404b0.chunk.js": "/beach-resort/static/js/3.9ee404b0.chunk.js",
@@ -19,7 +19,7 @@
     "static/js/7.75ba3b9a.chunk.js": "/beach-resort/static/js/7.75ba3b9a.chunk.js",
     "static/js/7.75ba3b9a.chunk.js.map": "/beach-resort/static/js/7.75ba3b9a.chunk.js.map",
     "index.html": "/beach-resort/index.html",
-    "precache-manifest.08f6e1ecea3c52a7233dd9086abb37ff.js": "/beach-resort/precache-manifest.08f6e1ecea3c52a7233dd9086abb37ff.js",
+    "precache-manifest.ad5d357ca30200eea241fc1f4ddfd6cf.js": "/beach-resort/precache-manifest.ad5d357ca30200eea241fc1f4ddfd6cf.js",
     "service-worker.js": "/beach-resort/service-worker.js",
     "static/css/4.571a5f7d.chunk.css.map": "/beach-resort/static/css/4.571a5f7d.chunk.css.map",
     "static/css/main.de381ec8.chunk.css.map": "/beach-resort/static/css/main.de381ec8.chunk.css.map",
@@ -33,6 +33,6 @@
     "static/js/runtime-main.b522c82c.js",
     "static/js/3.9ee404b0.chunk.js",
     "static/css/main.de381ec8.chunk.css",
-    "static/js/main.e16767ce.chunk.js"
+    "static/js/main.8c20157a.chunk.js"
   ]
 }
