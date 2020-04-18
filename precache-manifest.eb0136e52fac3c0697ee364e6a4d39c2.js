@@ -1,14 +1,14 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "35e4d71fbe24d74cc5e347d1429e89ee",
+    "revision": "c913e149e00f282febce5e2b67771bd2",
     "url": "/beach-resort/index.html"
   },
   {
-    "revision": "5d19a4ceac4169770094",
+    "revision": "0c79288b88f2bac5f709",
     "url": "/beach-resort/static/css/4.571a5f7d.chunk.css"
   },
   {
-    "revision": "af47e2e521e8ac374bc9",
+    "revision": "8c814435151691d0f943",
     "url": "/beach-resort/static/css/main.de381ec8.chunk.css"
   },
   {
@@ -24,28 +24,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/beach-resort/static/js/3.9ee404b0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5d19a4ceac4169770094",
-    "url": "/beach-resort/static/js/4.e281e26a.chunk.js"
+    "revision": "0c79288b88f2bac5f709",
+    "url": "/beach-resort/static/js/4.308a38aa.chunk.js"
   },
   {
-    "revision": "276ab1b63c26d56bfcdd",
-    "url": "/beach-resort/static/js/5.a5e927d4.chunk.js"
+    "revision": "d626a81c8d2f014392b3",
+    "url": "/beach-resort/static/js/5.8d4b3c6a.chunk.js"
   },
   {
-    "revision": "120466ca6627ed41a0c3",
-    "url": "/beach-resort/static/js/6.52eadfa8.chunk.js"
+    "revision": "3ad2fbad7ad175db63a3",
+    "url": "/beach-resort/static/js/6.f0bacd21.chunk.js"
   },
   {
-    "revision": "c92f1f52286c564a63a5",
-    "url": "/beach-resort/static/js/7.75ba3b9a.chunk.js"
+    "revision": "0cbeed21b274541b7d99",
+    "url": "/beach-resort/static/js/7.893e1e81.chunk.js"
   },
   {
-    "revision": "af47e2e521e8ac374bc9",
-    "url": "/beach-resort/static/js/main.8c20157a.chunk.js"
+    "revision": "8c814435151691d0f943",
+    "url": "/beach-resort/static/js/main.e5efb344.chunk.js"
   },
   {
-    "revision": "9908b1a75fda3e76a397",
-    "url": "/beach-resort/static/js/runtime-main.b522c82c.js"
+    "revision": "2177643d6e6dfa61134f",
+    "url": "/beach-resort/static/js/runtime-main.71608861.js"
   },
   {
     "revision": "aebaec51b2f82a2993fda821ca04e228",
